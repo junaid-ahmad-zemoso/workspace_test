@@ -1,10 +1,10 @@
 {
   "appIsExample": false,
   "applicationDetail": {
-    "appPositioning": {
-      "type": "FIXED"
+    "navigationSetting": {
+      "showNavbar": true,
+      "showSignIn": true
     },
-    "navigationSetting": {},
     "themeSetting": {
       "appMaxWidth": "LARGE",
       "density": 1.0,
@@ -18,15 +18,14 @@
   "icon": "basketball",
   "pages": [
     {
-      "id": "Page1",
       "isDefault": true
     }
   ],
   "unpublishedApplicationDetail": {
-    "appPositioning": {
-      "type": "FIXED"
+    "navigationSetting": {
+      "showNavbar": true,
+      "showSignIn": true
     },
-    "navigationSetting": {},
     "themeSetting": {
       "appMaxWidth": "LARGE",
       "density": 1.0,
